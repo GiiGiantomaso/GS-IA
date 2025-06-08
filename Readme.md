@@ -11,7 +11,7 @@ Este projeto aplica **Machine Learning** para prever o nível de urgência de pe
 
 ---
 ## LINK DO VÍDEO
-...
+https://youtu.be/_Kd21A_v73I
 
 ---
 ## Motivação
