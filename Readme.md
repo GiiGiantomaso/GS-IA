@@ -72,7 +72,7 @@ GS-IA/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/GiovannaGiantomaso/GS-IA
+git clone https://github.com/GiiGiantomaso/GS-IA.git
 
 ```
 
