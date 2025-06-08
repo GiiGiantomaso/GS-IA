@@ -1,4 +1,4 @@
-# Classificador de Nível de Urgência para Pedidos de Ajuda — Supernova ML
+# Classificador de Nível de Urgência para Pedidos de Ajuda — SOS-GR
 
 Este projeto aplica **Machine Learning** para prever o nível de urgência de pedidos de ajuda em situações de desastre, com base em variáveis estruturadas e descrições textuais do ocorrido. O objetivo é garantir que os atendimentos sejam realizados de forma ágil e organizada conforme a real necessidade de cada situação.
 
