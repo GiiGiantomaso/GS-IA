@@ -1,0 +1,381 @@
+TipoAjuda,CriancasNoLocal,PessoasNoLocal,SituacaoDeRisco,NivelUrgencia
+Abrigo,S,8,Deslizamento nas proximidades,ALTA
+Resgate,N,5,Temperatura extrema afetando idosos,MEDIA
+Abrigo,S,4,Sem energia elétrica há 24h,BAIXA
+Alimentos,N,10,Fuga urgente de área de risco,ALTA
+Abrigo,S,6,Crianças com febre leve,MEDIA
+Resgate,N,4,Morador pede atenção preventiva,BAIXA
+Atendimento Médico,N,6,Inundação dentro da residência,ALTA
+Água,S,4,Desabrigado sem local para ficar,MEDIA
+Alimentos,S,2,Área seca mas sem acesso a recursos,BAIXA
+Resgate,S,7,Fuga urgente de área de risco,ALTA
+Alimentos,N,3,Desabrigado sem local para ficar,MEDIA
+Abrigo,N,3,Morador pede atenção preventiva,BAIXA
+Alimentos,N,6,Risco de desabamento com crianças,ALTA
+Atendimento Médico,N,5,Falta de mantimentos básicos,MEDIA
+Alimentos,S,3,Área seca mas sem acesso a recursos,BAIXA
+Abrigo,S,7,Deslizamento nas proximidades,ALTA
+Água,S,5,Barraco alagado parcialmente,MEDIA
+Alimentos,N,4,Morador pede atenção preventiva,BAIXA
+Resgate,N,8,Família ilhada em área de risco,ALTA
+Alimentos,S,6,Crianças com febre leve,MEDIA
+Resgate,S,2,Área seca mas sem acesso a recursos,BAIXA
+Resgate,S,7,Deslizamento nas proximidades,ALTA
+Atendimento Médico,S,5,Fumaça constante mas sem fogo visível,MEDIA
+Abrigo,S,1,Falta de comida prevista para amanhã,BAIXA
+Resgate,S,7,Deslizamento nas proximidades,ALTA
+Água,S,6,Barraco alagado parcialmente,MEDIA
+Abrigo,S,1,Chegada recente ao local afetado,BAIXA
+Atendimento Médico,S,6,Pessoas feridas após enchente,ALTA
+Água,N,3,Desabrigado sem local para ficar,MEDIA
+Resgate,N,3,Falta de itens de higiene,BAIXA
+Abrigo,S,5,Deslizamento nas proximidades,ALTA
+Resgate,N,4,Falta parcial de energia e água,MEDIA
+Atendimento Médico,N,2,Área seca mas sem acesso a recursos,BAIXA
+Água,S,10,Pessoas feridas após enchente,ALTA
+Água,N,4,Presença de lixo acumulado no local,MEDIA
+Atendimento Médico,N,2,Ajuda preventiva solicitada,BAIXA
+Alimentos,S,6,Inundação dentro da residência,ALTA
+Água,S,5,Crianças com febre leve,MEDIA
+Resgate,N,4,Chegada recente ao local afetado,BAIXA
+Água,N,9,Risco de desabamento com crianças,ALTA
+Abrigo,N,3,Temperatura extrema afetando idosos,MEDIA
+Água,N,1,Morador pede atenção preventiva,BAIXA
+Atendimento Médico,S,5,Risco de desabamento com crianças,ALTA
+Atendimento Médico,N,4,Falta de alimentos e água há dias,MEDIA
+Água,S,4,Solicitação de abrigo temporário,BAIXA
+Resgate,S,10,Fuga urgente de área de risco,ALTA
+Abrigo,S,6,Barraco alagado parcialmente,MEDIA
+Abrigo,S,4,Falta de itens de higiene,BAIXA
+Água,N,5,Pessoas feridas após enchente,ALTA
+Atendimento Médico,S,4,Presença de lixo acumulado no local,MEDIA
+Abrigo,S,2,Solicitação de abrigo temporário,BAIXA
+Abrigo,N,9,Crianças com sintomas graves após desastre,ALTA
+Abrigo,N,5,Temperatura extrema afetando idosos,MEDIA
+Atendimento Médico,S,3,Solicitação de abrigo temporário,BAIXA
+Resgate,S,10,Área tomada por fogo,ALTA
+Alimentos,S,5,Moradores dormindo ao relento,MEDIA
+Atendimento Médico,S,2,Área seca mas sem acesso a recursos,BAIXA
+Atendimento Médico,N,7,Risco de desabamento com crianças,ALTA
+Água,S,3,Presença de lixo acumulado no local,MEDIA
+Resgate,S,2,Área seca mas sem acesso a recursos,BAIXA
+Água,N,6,Idoso desaparecido em enchente,ALTA
+Alimentos,S,4,Temperatura extrema afetando idosos,MEDIA
+Atendimento Médico,N,2,Falta de cobertores,BAIXA
+Alimentos,S,10,Família ilhada em área de risco,ALTA
+Alimentos,N,5,Moradores dormindo ao relento,MEDIA
+Resgate,N,2,Falta de itens de higiene,BAIXA
+Água,N,7,Pessoas feridas após enchente,ALTA
+Atendimento Médico,N,3,Desabrigado sem local para ficar,MEDIA
+Abrigo,N,1,Morador pede atenção preventiva,BAIXA
+Resgate,N,5,Área tomada por fogo,ALTA
+Abrigo,N,3,Falta de alimentos e água há dias,MEDIA
+Abrigo,N,2,Ajuda preventiva solicitada,BAIXA
+Atendimento Médico,S,9,Deslizamento nas proximidades,ALTA
+Resgate,N,5,Falta de mantimentos básicos,MEDIA
+Atendimento Médico,S,4,Falta de itens de higiene,BAIXA
+Resgate,S,10,Deslizamento nas proximidades,ALTA
+Resgate,N,4,Falta de alimentos e água há dias,MEDIA
+Abrigo,N,4,Morador pede atenção preventiva,BAIXA
+Água,S,10,Pessoas feridas após enchente,ALTA
+Resgate,S,6,Moradores dormindo ao relento,MEDIA
+Abrigo,S,4,Falta de comida prevista para amanhã,BAIXA
+Água,N,6,Idoso desaparecido em enchente,ALTA
+Atendimento Médico,N,5,Falta de mantimentos básicos,MEDIA
+Abrigo,S,3,Pedido de água para consumo,BAIXA
+Resgate,N,6,Crianças com sintomas graves após desastre,ALTA
+Água,S,3,Presença de lixo acumulado no local,MEDIA
+Alimentos,N,1,Solicitação de abrigo temporário,BAIXA
+Atendimento Médico,S,5,Pessoas feridas após enchente,ALTA
+Água,N,5,Crianças com febre leve,MEDIA
+Água,S,1,Área seca mas sem acesso a recursos,BAIXA
+Atendimento Médico,N,5,Inundação dentro da residência,ALTA
+Abrigo,N,5,Fumaça constante mas sem fogo visível,MEDIA
+Atendimento Médico,S,3,Área seca mas sem acesso a recursos,BAIXA
+Resgate,N,8,Pessoas feridas após enchente,ALTA
+Abrigo,S,3,Falta parcial de energia e água,MEDIA
+Alimentos,S,2,Falta de comida prevista para amanhã,BAIXA
+Água,N,5,Crianças com sintomas graves após desastre,ALTA
+Atendimento Médico,N,5,Falta parcial de energia e água,MEDIA
+Atendimento Médico,N,1,Solicitação de abrigo temporário,BAIXA
+Água,N,8,Desabamento iminente do teto,ALTA
+Água,N,4,Barraco alagado parcialmente,MEDIA
+Água,N,2,Chegada recente ao local afetado,BAIXA
+Abrigo,N,9,Pessoas feridas após enchente,ALTA
+Água,N,6,Falta de mantimentos básicos,MEDIA
+Atendimento Médico,N,2,Chegada recente ao local afetado,BAIXA
+Resgate,S,7,Fuga urgente de área de risco,ALTA
+Resgate,S,4,Falta de mantimentos básicos,MEDIA
+Resgate,N,4,Morador pede atenção preventiva,BAIXA
+Atendimento Médico,S,6,Área tomada por fogo,ALTA
+Resgate,S,5,Fumaça constante mas sem fogo visível,MEDIA
+Água,S,2,Falta de itens de higiene,BAIXA
+Água,S,9,Deslizamento nas proximidades,ALTA
+Atendimento Médico,S,4,Falta de mantimentos básicos,MEDIA
+Resgate,N,3,Pedido de água para consumo,BAIXA
+Abrigo,N,5,Desabamento iminente do teto,ALTA
+Atendimento Médico,N,3,Falta de alimentos e água há dias,MEDIA
+Alimentos,N,3,Morador pede atenção preventiva,BAIXA
+Abrigo,N,9,Inundação dentro da residência,ALTA
+Resgate,S,3,Falta parcial de energia e água,MEDIA
+Alimentos,S,2,Ajuda preventiva solicitada,BAIXA
+Alimentos,S,9,Família ilhada em área de risco,ALTA
+Alimentos,S,3,Falta de alimentos e água há dias,MEDIA
+Alimentos,S,2,Solicitação de abrigo temporário,BAIXA
+Abrigo,S,7,Pessoas feridas após enchente,ALTA
+Água,S,6,Barraco alagado parcialmente,MEDIA
+Resgate,N,3,Sem energia elétrica há 24h,BAIXA
+Atendimento Médico,N,10,Inundação dentro da residência,ALTA
+Água,N,6,Crianças com febre leve,MEDIA
+Atendimento Médico,N,3,Área seca mas sem acesso a recursos,BAIXA
+Água,S,9,Família ilhada em área de risco,ALTA
+Alimentos,N,6,Moradores dormindo ao relento,MEDIA
+Alimentos,S,3,Falta de cobertores,BAIXA
+Água,N,9,Deslizamento nas proximidades,ALTA
+Água,N,5,Falta de mantimentos básicos,MEDIA
+Resgate,N,3,Sem energia elétrica há 24h,BAIXA
+Alimentos,S,6,Risco de desabamento com crianças,ALTA
+Água,S,3,DesabrigadO sem local para ficar,MEDIA
+Alimentos,S,2,Chegada recente ao local afetado,BAIXA
+Água,S,6,Deslizamento nas proximidades,ALTA
+Resgate,N,4,Desabrigado sem local para ficar,MEDIA
+Água,N,3,Falta de itens de higiene,BAIXA
+Atendimento Médico,S,5,Idoso desaparecido em enchente,ALTA
+Resgate,N,3,Presença de lixo acumulado no local,MEDIA
+Atendimento Médico,N,1,Falta de cobertores,BAIXA
+Atendimento Médico,N,10,Crianças com sintomas graves após desastre,ALTA
+Abrigo,S,5,Falta de alimentos e água há dias,MEDIA
+Abrigo,S,3,Sem energia elétrica há 24h,BAIXA
+Abrigo,S,9,Idoso desaparecido em enchente,ALTA
+Resgate,S,6,Falta parcial de energia e água,MEDIA
+Resgate,S,1,Morador pede atenção preventiva,BAIXA
+Atendimento Médico,N,8,Área tomada por fogo,ALTA
+Atendimento Médico,N,4,Fumaça constante mas sem fogo visível,MEDIA
+Água,N,3,Área seca mas sem acesso a recursos,BAIXA
+Abrigo,S,7,Desabamento iminente do teto,ALTA
+Água,N,6,Falta de alimentos e água há dias,MEDIA
+Água,S,2,Falta de itens de higiene,BAIXA
+Abrigo,S,6,Fuga urgente de área de risco,ALTA
+Atendimento Médico,S,3,Moradores dormindo ao relento,MEDIA
+Resgate,S,2,Ajuda preventiva solicitada,BAIXA
+Atendimento Médico,N,5,Desabamento iminente do teto,ALTA
+Abrigo,N,6,Moradores dormindo ao relento,MEDIA
+Água,S,1,Falta de itens de higiene,BAIXA
+Resgate,S,9,Idoso desaparecido em enchente,ALTA
+Resgate,S,3,Fumaça constante mas sem fogo visível,MEDIA
+Água,S,2,Ajuda preventiva solicitada,BAIXA
+Atendimento Médico,N,10,Inundação dentro da residência,ALTA
+Água,S,6,Moradores dormindo ao relento,MEDIA
+Resgate,S,3,Área seca mas sem acesso a recursos,BAIXA
+Atendimento Médico,N,7,Área tomada por fogo,ALTA
+Atendimento Médico,N,4,Falta de alimentos e água há dias,MEDIA
+Alimentos,S,4,Pedido de água para consumo,BAIXA
+Resgate,S,7,Família ilhada em área de risco,ALTA
+Resgate,N,3,Fumaça constante mas sem fogo visível,MEDIA
+Alimentos,N,4,Pedido de água para consumo,BAIXA
+Resgate,N,10,Pessoas feridas após enchente,ALTA
+Resgate,S,3,Presença de lixo acumulado no local,MEDIA
+Resgate,S,3,Falta de itens de higiene,BAIXA
+Abrigo,S,6,Deslizamento nas proximidades,ALTA
+Abrigo,S,4,Moradores dormindo ao relento,MEDIA
+Água,N,2,Falta de itens de higiene,BAIXA
+Abrigo,S,7,Idoso desaparecido em enchente,ALTA
+Atendimento Médico,S,4,Falta de mantimentos básicos,MEDIA
+Alimentos,S,2,Chegada recente ao local afetado,BAIXA
+Abrigo,N,6,Fuga urgente de área de risco,ALTA
+Alimentos,S,3,Moradores dormindo ao relento,MEDIA
+Atendimento Médico,S,3,Ajuda preventiva solicitada,BAIXA
+Resgate,N,8,Família ilhada em área de risco,ALTA
+Alimentos,S,4,Fumaça constante mas sem fogo visível,MEDIA
+Abrigo,N,4,Morador pede atenção preventiva,BAIXA
+Atendimento Médico,N,10,Desabamento iminente do teto,ALTA
+Atendimento Médico,N,5,Fumaça constante mas sem fogo visível,MEDIA
+Alimentos,N,3,Chegada recente ao local afetado,BAIXA
+Resgate,N,9,Idoso desaparecido em enchente,ALTA
+Alimentos,S,3,Falta de mantimentos básicos,MEDIA
+Resgate,S,1,Pedido de água para consumo,BAIXA
+Abrigo,S,8,Pessoas feridas após enchente,ALTA
+Alimentos,S,5,Barraco alagado parcialmente,MEDIA
+Alimentos,N,3,Morador pede atenção preventiva,BAIXA
+Atendimento Médico,S,6,Família ilhada em área de risco,ALTA
+Atendimento Médico,N,3,Falta de alimentos e água há dias,MEDIA
+Atendimento Médico,N,1,Chegada recente ao local afetado,BAIXA
+Água,N,10,Deslizamento nas proximidades,ALTA
+Água,S,6,Falta parcial de energia e água,MEDIA
+Alimentos,N,1,Solicitação de abrigo temporário,BAIXA
+Alimentos,S,7,Desabamento iminente do teto,ALTA
+Resgate,N,3,Desabrigado sem local para ficar,MEDIA
+Água,N,4,Pedido de água para consumo,BAIXA
+Abrigo,S,5,Família ilhada em área de risco,ALTA
+Resgate,N,5,Presença de lixo acumulado no local,MEDIA
+Resgate,N,3,Ajuda preventiva solicitada,BAIXA
+Água,S,8,Desabamento iminente do teto,ALTA
+Atendimento Médico,N,5,Presença de lixo acumulado no local,MEDIA
+Abrigo,S,2,Ajuda preventiva solicitada,BAIXA
+Abrigo,N,10,Desabamento iminente do teto,ALTA
+Alimentos,S,5,Crianças com febre leve,MEDIA
+Resgate,N,1,Morador pede atenção preventiva,BAIXA
+Água,N,8,Pessoas feridas após enchente,ALTA
+Abrigo,S,4,Barraco alagado parcialmente,MEDIA
+Atendimento Médico,N,4,Solicitação de abrigo temporário,BAIXA
+Resgate,N,10,Deslizamento nas proximidades,ALTA
+Abrigo,N,4,Temperatura extrema afetando idosos,MEDIA
+Abrigo,N,1,Pedido de água para consumo,BAIXA
+Atendimento Médico,N,8,Crianças com sintomas graves após desastre,ALTA
+Atendimento Médico,S,3,Presença de lixo acumulado no local,MEDIA
+Alimentos,S,4,Sem energia elétrica há 24h,BAIXA
+Água,N,8,Crianças com sintomas graves após desastre,ALTA
+Atendimento Médico,N,6,Crianças com febre leve,MEDIA
+Alimentos,S,2,Falta de comida prevista para amanhã,BAIXA
+Atendimento Médico,S,6,Risco de desabamento com crianças,ALTA
+Resgate,N,4,Fumaça constante mas sem fogo visível,MEDIA
+Resgate,N,2,Pedido de água para consumo,BAIXA
+Atendimento Médico,N,10,Área tomada por fogo,ALTA
+Resgate,N,5,Presença de lixo acumulado no local,MEDIA
+Abrigo,S,3,Pedido de água para consumo,BAIXA
+Resgate,S,8,Fuga urgente de área de risco,ALTA
+Atendimento Médico,S,4,Moradores dormindo ao relento,MEDIA
+Atendimento Médico,N,3,Falta de comida prevista para amanhã,BAIXA
+Alimentos,S,7,Pessoas feridas após enchente,ALTA
+Resgate,N,6,Falta de mantimentos básicos,MEDIA
+Abrigo,S,2,Falta de itens de higiene,BAIXA
+Abrigo,S,6,Área tomada por fogo,ALTA
+Água,N,4,Desabrigado sem local para ficar,MEDIA
+Abrigo,N,3,Falta de itens de higiene,BAIXA
+Resgate,S,6,Pessoas feridas após enchente,ALTA
+Resgate,N,3,Fumaça constante mas sem fogo visível,MEDIA
+Abrigo,S,1,Sem energia elétrica há 24h,BAIXA
+Abrigo,N,10,Crianças com sintomas graves após desastre,ALTA
+Atendimento Médico,S,3,Falta de alimentos e água há dias,MEDIA
+Água,N,4,Ajuda preventiva solicitada,BAIXA
+Resgate,N,5,Fuga urgente de área de risco,ALTA
+Atendimento Médico,S,5,Crianças com febre leve,MEDIA
+Abrigo,S,4,Área seca mas sem acesso a recursos,BAIXA
+Resgate,S,5,Deslizamento nas proximidades,ALTA
+Resgate,S,4,Falta de mantimentos básicos,MEDIA
+Atendimento Médico,S,1,Área seca mas sem acesso a recursos,BAIXA
+Água,N,6,Área tomada por fogo,ALTA
+Água,S,6,Temperatura extrema afetando idosos,MEDIA
+Alimentos,S,4,Chegada recente ao local afetado,BAIXA
+Resgate,S,10,Fuga urgente de área de risco,ALTA
+Abrigo,S,4,Falta de alimentos e água há dias,MEDIA
+Água,S,4,Solicitação de abrigo temporário,BAIXA
+Abrigo,S,8,Risco de desabamento com crianças,ALTA
+Alimentos,S,6,Fumaça constante mas sem fogo visível,MEDIA
+Abrigo,S,2,Chegada recente ao local afetado,BAIXA
+Alimentos,S,5,Fuga urgente de área de risco,ALTA
+Atendimento Médico,N,6,Temperatura extrema afetando idosos,MEDIA
+Resgate,S,4,Ajuda preventiva solicitada,BAIXA
+Resgate,S,6,Deslizamento nas proximidades,ALTA
+Atendimento Médico,S,4,Falta de alimentos e água há dias,MEDIA
+Abrigo,S,3,Morador pede atenção preventiva,BAIXA
+Resgate,N,10,Inundação dentro da residência,ALTA
+Resgate,S,5,Falta de alimentos e água há dias,MEDIA
+Abrigo,N,1,Solicitação de abrigo temporário,BAIXA
+Alimentos,N,6,Desabamento iminente do teto,ALTA
+Resgate,N,6,Falta de mantimentos básicos,MEDIA
+Resgate,S,4,Falta de comida prevista para amanhã,BAIXA
+Alimentos,N,6,Desabamento iminente do teto,ALTA
+Abrigo,N,3,Desabrigado sem local para ficar,MEDIA
+Atendimento Médico,N,3,Falta de cobertores,BAIXA
+Água,S,5,Idoso desaparecido em enchente,ALTA
+Abrigo,S,3,Falta de mantimentos básicos,MEDIA
+Abrigo,N,1,Chegada recente ao local afetado,BAIXA
+Abrigo,N,8,Idoso desaparecido em enchente,ALTA
+Alimentos,N,6,Temperatura extrema afetando idosos,MEDIA
+Abrigo,N,3,Chegada recente ao local afetado,BAIXA
+Abrigo,S,5,Pessoas feridas após enchente,ALTA
+Abrigo,N,5,Presença de lixo acumulado no local,MEDIA
+Água,N,3,Solicitação de abrigo temporário,BAIXA
+Resgate,S,5,Idoso desaparecido em enchente,ALTA
+Atendimento Médico,N,5,Presença de lixo acumulado no local,MEDIA
+Atendimento Médico,S,2,Ajuda preventiva solicitada,BAIXA
+Resgate,N,5,Crianças com sintomas graves após desastre,ALTA
+Alimentos,N,4,Desabrigado sem local para ficar,MEDIA
+Alimentos,N,1,Falta de comida prevista para amanhã,BAIXA
+Atendimento Médico,S,7,Fuga urgente de área de risco,ALTA
+Resgate,N,4,Desabrigado sem local para ficar,MEDIA
+Abrigo,S,1,Sem energia elétrica há 24h,BAIXA
+Água,S,5,Área tomada por fogo,ALTA
+Resgate,S,4,Moradores dormindo ao relento,MEDIA
+Atendimento Médico,S,4,Chegada recente ao local afetado,BAIXA
+Resgate,S,5,Situação crítica,ALTA
+Resgate,S,5,Precisam de ajuda urgente,ALTA
+Resgate,S,5,Emergência no local,ALTA
+Resgate,S,5,Risco de vida,ALTA
+Resgate,S,5,Situação crítica,ALTA
+Resgate,S,5,Precisam de ajuda urgente,ALTA
+Resgate,S,5,Emergência no local,ALTA
+Resgate,S,5,Risco de vida,ALTA
+Resgate,S,5,Situação crítica,ALTA
+Resgate,S,5,Precisam de ajuda urgente,ALTA
+Resgate,S,5,Emergência no local,ALTA
+Resgate,S,5,Risco de vida,ALTA
+Resgate,S,5,Precisam de ajuda urgente,ALTA
+Resgate,S,4,Emergência no local,ALTA
+Resgate,S,4,Risco de vida,ALTA
+Resgate,S,3,Precisam de ajuda urgente,ALTA
+Resgate,S,3,Emergência no local,ALTA
+Resgate,S,3,Risco de vida,ALTA
+Resgate,S,3,Risco de vida,ALTA
+Resgate,S,2,Risco de vida,ALTA
+Resgate,S,2,Risco de vida,ALTA
+Resgate,S,2,Risco de vida,ALTA
+Resgate,S,2,Pessoas ilhadas em casa alagada,ALTA
+Resgate,S,2,Pessoas ilhadas em casa alagada,ALTA
+Resgate,N,3,Pessoas ilhadas em casa alagada,ALTA
+Resgate,N,3,Pessoas ilhadas em casa alagada,ALTA
+Resgate,N,4,Pessoas ilhadas em casa alagada,ALTA
+Resgate,N,4,Pessoas ilhadas em casa alagada,ALTA
+Resgate,N,4,Pessoas ilhadas em casa alagada,ALTA
+Resgate,N,2,Pessoas ilhadas em casa alagada,ALTA
+Resgate,N,2,Pessoas ilhadas em casa alagada,ALTA
+Resgate,N,2,Pessoas ilhadas em casa alagada,ALTA
+Resgate,S,2,Pessoas ilhadas em casa alagada,ALTA
+Resgate,S,2,Pessoas ilhadas em casa alagada,ALTA
+Resgate,S,2,Pessoas ilhadas em casa alagada,ALTA
+Resgate,S,2,Pessoas ilhadas em casa alagada,ALTA
+Resgate,N,3,Pessoas ilhadas em casa alagada,ALTA
+Resgate,N,3,Pessoas ilhadas em casa alagada,ALTA
+Resgate,N,4,Pessoas ilhadas em casa alagada,ALTA
+Resgate,N,4,Pessoas ilhadas em casa alagada,ALTA
+Resgate,N,4,Pessoas ilhadas em casa alagada,ALTA
+Resgate,N,2,Pessoas ilhadas em casa alagada,ALTA
+Resgate,N,2,Pessoas ilhadas em casa alagada,ALTA
+Resgate,N,2,Pessoas ilhadas em casa alagada,ALTA
+Resgate,S,2,Pessoas ilhadas em casa alagada,ALTA
+Resgate,S,2,Pessoas ilhadas em casa alagada,ALTA
+Resgate,S,2,Pessoas ilhadas em casa alagada,ALTA
+Resgate,S,2,Pessoas ilhadas em casa alagada,ALTA
+Resgate,S,2,Pessoas ilhadas em casa alagada,ALTA
+Resgate,S,2,Pessoas ilhadas em casa alagada,ALTA
+Abrigo,N,4,Desabrigados sem local para ficar,MEDIA
+Abrigo,N,4,Desabrigados sem local para ficar,MEDIA
+Abrigo,N,4,Desabrigados sem local para ficar,MEDIA
+Abrigo,N,4,Desabrigados sem local para ficar,MEDIA
+Abrigo,N,4,Desabrigados sem local para ficar,MEDIA
+Abrigo,N,4,Desabrigados sem local para ficar,MEDIA
+Abrigo,N,3,Desabrigados sem local para ficar,MEDIA
+Abrigo,N,3,Desabrigados sem local para ficar,MEDIA
+Abrigo,N,3,Desabrigados sem local para ficar,MEDIA
+Abrigo,N,2,Desabrigados sem local para ficar,MEDIA
+Abrigo,N,2,Desabrigados sem local para ficar,MEDIA
+Abrigo,N,2,Desabrigados sem local para ficar,MEDIA
+Abrigo,S,3,Desabrigados sem local para ficar,MEDIA
+Abrigo,S,2,Desabrigados sem local para ficar,MEDIA
+Abrigo,S,2,Desabrigados sem local para ficar,MEDIA
+Abrigo,S,2,Desabrigados sem local para ficar,MEDIA
+Abrigo,S,4,Desabrigados sem local para ficar,MEDIA
+Abrigo,S,4,Desabrigados sem local para ficar,MEDIA
+Água,S,4,Área tomada por fogo,ALTA
+Água,S,3,Área tomada por fogo,ALTA
+Água,S,2,Área tomada por fogo,ALTA
+Água,S,4,Área tomada por fogo,ALTA
+Água,S,3,Área tomada por fogo,ALTA
+Água,S,2,Área tomada por fogo,ALTA
+Água,N,4,Área tomada por fogo,ALTA
+Água,N,3,Área tomada por fogo,ALTA
+Água,N,2,Área tomada por fogo,ALTA
+Água,N,4,Área tomada por fogo,ALTA
+Água,N,3,Área tomada por fogo,ALTA
+Água,N,2,Área tomada por fogo,ALTA
