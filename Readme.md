@@ -10,7 +10,10 @@ Este projeto aplica **Machine Learning** para prever o nível de urgência de pe
 - Rebeca Silva Lopes | RM553764
 
 ---
+## LINK DO VÍDEO
+...
 
+---
 ## Motivação
 
 Em cenários de emergência, como enchentes, incêndios, deslizamentos ou crises, é essencial que os pedidos de ajuda sejam classificados corretamente. Este classificador atua como um apoio automatizado para priorizar os casos com maior gravidade, possibilitando uma resposta mais rápida e eficiente das equipes de apoio.
