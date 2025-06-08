@@ -34,7 +34,7 @@ Em cenários de emergência, como enchentes, incêndios, deslizamentos ou crises
 
 ## Dataset
 
-O arquivo `dataset_pedidoajuda.csv` contém dados simulados com os seguintes campos:
+O arquivo `dataset_pedidoajuda.csv` contém dados com os seguintes campos:
 
 - `tipo_ajuda`: tipo de socorro necessário
 - `criancas`: se há crianças no local
